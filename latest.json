@@ -1,7 +1,15 @@
 {
-  "version": "5.6",
-  "file_name": "TWModPack.scs",
-  "share_url": "https://www.mediafire.com/file/t7chs3ur69ivec8/ModPackV5.6.scs/file",
-  "notes": "Current Truckers World ModPack release",
-  "sha256": ""
+  "schemaVersion": 1,
+  "modpack": {
+    "name": "Truckers World ModPack",
+    "filePrefix": "TWModPack",
+    "latestVersion": "5.6",
+    "fileName": "TWModPackV5.6.scs",
+    "downloadUrl": "https://www.mediafire.com/file/c9hwtly8572ihjt/TWModPackV5.6.scs/file",
+    "releaseDate": "2026-08-17",
+    "enabled": true,
+    "releaseNotes": [
+      "Updated Truckers World ModPack."
+    ]
+  }
 }
