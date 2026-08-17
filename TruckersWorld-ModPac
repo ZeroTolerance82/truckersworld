@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "modpack": {
+    "name": "Truckers World ModPack",
+    "filePrefix": "TWModPack",
+    "latestVersion": "5.6",
+    "fileName": "TWModPackV5.6.scs",
+    "downloadUrl": "YOUR-DIRECT-MODPACK-LINK",
+    "releaseDate": "2026-08-17",
+    "enabled": true,
+    "releaseNotes": [
+      "Updated Truckers World ModPack."
+    ]
+  }
+}
